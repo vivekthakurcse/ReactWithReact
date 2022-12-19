@@ -1,0 +1,44 @@
+section{
+  width:100;
+  height:100em;
+}
+.part1{
+  background:#ff0040;
+  width:100%;
+  height:25rem;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.cards{
+  height:20rem;
+  width: 30%;
+  background: black ;
+  margin:2.5rem;
+  color:white;
+  overflow : hidden ;
+}
+.cards h1{
+  padding : 10% 70% 10% 10%;
+  font-size:3rem;
+}
+
+.cards p{
+  display:inline-block;
+  width:80%;
+  height:15rem;
+}
+-webkit-scrollbar-track{
+    background:#ff0040;
+  frame-set:
+}
+.Part2{
+  width:100%;
+  height:25rem;
+  background:black;
+}
+
+@media screen and(max-width:768px){
+
+}
